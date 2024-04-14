@@ -1,0 +1,13 @@
+#IGNORE ALL
+*
+!.gitignore
+#EXCEPT
+!*.vhdl
+!*.vhd
+!*.do
+!*.sh
+!*.txt
+#Github
+!*.md
+#DIRECTORIES
+!*/
